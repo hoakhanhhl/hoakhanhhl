@@ -16,6 +16,8 @@
 - **Database**:<br>
    ![Mysql](https://img.icons8.com/color/48/000000/mysql-logo.png)
    ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)<br>
+- **Database**:<br>
+    ![NodeJs](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png)
 - **Softwares**:<br>
   <img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/07/Adobe-xd-logo.png" alt="" height="40" width="40" />
   <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" width="40" /><br>
